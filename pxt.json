@@ -16,10 +16,12 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "2.1.32",
+        "target": "2.0.63",
         "targetId": "arcade"
     },
     "supportedTargets": [
         "arcade"
-    ]
+    ],
+    "preferredEditor": "tsprj",
+    "assetPack": true
 }
